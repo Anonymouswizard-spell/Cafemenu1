@@ -100,7 +100,8 @@ header {
   color: #fff;
 }
 .btn:hover {
-  background: #ff0000;
+  background: var(--main-color);
+  
 }
 .about {
   display: grid;
